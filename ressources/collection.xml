@@ -1,0 +1,45 @@
+<collection>
+<head>CD Collection</head>
+<cds>
+    <cd>
+        <artist>Rage against the machine</artist>
+        <title>Rage against the Machine</title>
+        <cover href="./ressources/dookie.jpg" />
+        <sources>
+            <source href="https://de.wikipedia.org/wiki/Dookie">Wikipedia</source>
+        </sources>
+        <songs>
+            <song>
+                <title>Burnout</title>
+                <duration>2:07</duration>
+            </song>
+            <song>
+                <title>When I come around</title>
+                <duration>2:58</duration>
+            </song>
+        </songs>
+    </cd>
+    <cd>
+        <artist>Nirvana</artist>
+        <title>Nevermind</title>
+        <cover href="./ressources/nevermind.jpg" />
+        <sources>
+            <source href="https://de.wikipedia.org/wiki/Nevermind">Wikipedia</source>
+        </sources>
+        <songs>
+            <song>
+                <title>Smells like teen spirit</title>
+                <duration>5:02</duration>
+            </song>
+            <song>
+                <title>In Bloom</title>
+                <duration>4:15</duration>
+            </song>
+            <song>
+                <title>Come as you are</title>
+                <duration>3:39</duration>
+            </song>
+        </songs>
+    </cd>
+</cds>
+</collection>
