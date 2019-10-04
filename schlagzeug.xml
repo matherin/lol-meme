@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="schlagzeug.xsl"?>
+<document dbref="1927508400408143398">
+    <title>Schlagzeug(leicht)</title>
+    <textel>
+        <subheading>Elektronisches Schlagzeug</subheading>
+        <paragraph id="e296" type="standard">
+            <image id="e313" dbref="1927710031466639231" storedata="/fileserver/images" objectdata="/1927/710031466958040" subtitle="e-drums"/>
+        </paragraph>
+        <paragraph id="e25" type="standard">Das elektronische Schlagzeug (kurz <italic>E-Drums</italic>) wird wie das klassische Drumset gespielt. Die Töne entstehen jedoch nicht beim Schlag auf ein Instrument, sondern werden durch den Schlagimpuls ausgelöst, (zumeist digital) in einem Soundprozessor erzeugt und können über Lautsprecher oder Kopfhörer ausgegeben werden. Zu diesem Zweck sind alle bespielten Komponenten mit elektronischen Tonabnehmern ausgestattet. Der entstehende Klang ist abhängig vom verwendeten Soundprozessor bzw. der Art und Qualität der verwendeten Soundvorlagen (Samples); er kann dem Klang eines herkömmlichen akustischen Schlagzeugs sehr nahekommen, bietet im Vergleich zu diesem jedoch noch nicht alle möglichen spielerischen Feinheiten. Neben dem aufwendigeren Aufbau und dem teilweise höheren Anschaffungspreis des elektronischen Schlagzeugs ist dies der Grund, dass heute beide Formen nebeneinander verwendet werden. Das elektronische Schlagzeug ist nicht mit dem <a href="https://de.wikipedia.org/wiki/Drumcomputer">Drumcomputer</a> zu verwechseln, der die Klänge der Instrumente ohne Interaktion mit einem Schlagzeuger nachahmt.</paragraph>
+        <paragraph id="e57" type="standard">Der größte Vorteil des elektronischen Schlagzeugs ist sein fast völlig fehlender Eigenklang ohne Verstärkung. Es eignet sich deswegen für den Einsatz unter schwierigen akustischen Verhältnissen. Einsatzbeispiele sind Popmusik in Zimmerlautstärke bei entsprechenden Veranstaltungen, das Üben ohne Lärmbelästigung der Nachbarn beim Spiel mit Kopfhörern und Musicalproduktionen, bei denen eine extrem geringe Bühnenlautstärke erforderlich ist. Ein weiterer Vorteil des elektronischen Schlagzeugs ist die Erzeugung der Klänge verschiedener Schlagzeug- und Perkussionsinstrument mit nur einem Set.</paragraph>
+        <subheading>Standardgrößen</subheading>
+        <paragraph id="e81" type="standard">Die gängigen Trommel- und Beckendurchmesser sind:</paragraph>
+        <table id="e85" type="standard">
+            <body>
+                <row>
+                    <headcell align="left">Bauart</headcell>
+                    <headcell align="left">Größe</headcell>
+                </row>
+                <row>
+                    <cell align="left">Große Trommel</cell>
+                    <cell align="left">22 Zoll (16 bis 30 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">Kleine Trommel</cell>
+                    <cell align="left">14 Zoll (6 bis 16 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">Tomtom</cell>
+                    <cell align="left">10, 12 und 14 oder 12, 13 und 16 Zoll(6 bis 18 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">Hi-Hat</cell>
+                    <cell align="left">14 Zoll (8 bis 16 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">Ride-Becken</cell>
+                    <cell align="left">20 Zoll (18 bis 24 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">Crash-Becken</cell>
+                    <cell align="left">16 Zoll (13 bis 24 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">Splash-Becken</cell>
+                    <cell align="left">10 Zoll (6 bis 12 Zoll)</cell>
+                </row>
+                <row>
+                    <cell align="left">China-Becken</cell>
+                    <cell align="left">18 Zoll (8 bis 26 Zoll)</cell>
+                </row>
+            </body>
+        </table>
+    </textel>
+</document>
+
