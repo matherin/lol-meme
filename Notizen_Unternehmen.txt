@@ -1,0 +1,15 @@
+Xpublisher GmbH
+GmbH
+ca. 30 Mitarbeiter
+2 Produkte: 
+	Xpublisher
+	XEditor
+Xpublisher:
+	???
+XEditor:
+	Verläge
+Bedeutung für die Region?
+2 mio €
+Unternehmen bildet nicht selbst aus
+Ich habe ein Xslt-Stylesheet entwickelt, welches aus der Xml die der XEditor aus normalen Texten macht eine Html macht die auch ein ansehbares Desinge hat.
+Dies habe ich am Arbeitsplatz eines Programmierers gemacht.
